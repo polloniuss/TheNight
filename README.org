@@ -16,5 +16,6 @@ During this difficult week, you will be supported by a nice (cynical), helpful (
 
 ** Please run this before playing:
 
-https://cors-anywhere.herokuapp.com/corsdemo
-https://nlu-heroku.herokuapp.com/
+- https://cors-anywhere.herokuapp.com/corsdemo
+
+- https://nlu-heroku.herokuapp.com/
