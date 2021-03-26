@@ -4,20 +4,17 @@
 -    Date of creation: 03/2021
 -    Course: LT2216 NML 50 DAG
 
-Goal of the game: The game lasts 5 turns during which he will be 
-        asked to choose between 4 different actions. Each chosen action 
-        has an impact on the player's game experience. There is a set 
-        of different reactions from the talking bot to avoid redundancy 
-        and encourage players to try various endings.
+** Goal of the game:
+	The game lasts 5 turns during which he will be asked to choose between 4 different actions. Each chosen action  has an impact on the player's game experience. There is a set  of different reactions from the talking bot to avoid redundancy and encourage players to try various endings.
 
-Scenario:
+** Scenario:
 
 	We are on monday evening, and you're having exams everyday. But you just realized that you have a big project to submit on friday night! You have 5 nights before the deadline. What should you do ? You better know your priorities this week ...
 Each night, you will have to choose between sleepîng, working on your project, calling your mother or rather partying with your friends.
 During this difficult week, you will be supported by a nice (cynical), helpful (arrogant), and benevolent (absolutely not) bot.
 
 
-Please run this before playing:
+** Please run this before playing:
 
 https://cors-anywhere.herokuapp.com/corsdemo
 https://nlu-heroku.herokuapp.com/
