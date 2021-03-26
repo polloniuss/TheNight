@@ -458,7 +458,7 @@ export const dmMachine: MachineConfig<SDSContext, any, SDSEvent> = ({
         },
         winWorkMedium: {
             on: { ENDSPEECH: "playAgain" },
-            ...prompt("I hope that your professor will be nice with you because to me it was a draft. But nice try.")
+            ...prompt("I hope that your professor will be nice with you because to me it was a draft. But nice try. Too bad that you haven't sent it on friday night.")
         },
         winSleepMedium: {
             on: { ENDSPEECH: "playAgain" },
